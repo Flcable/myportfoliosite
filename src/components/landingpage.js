@@ -12,10 +12,10 @@ class Landing extends Component {
                       <img alt="avatar" className="avatar-img" src={avatar} />
 
                       <div className="banner-text">
-                        <h1>Full Stack Web Developer</h1>   
+                        <h1>Cloud Computer Professional</h1>   
 
                         <hr/>
-                        <p>HTML/CSS | Booststrap | JavaScrip | React | React Native | NodeJS | Express</p>
+                        <p>Azure | Azure Devops | System Administration | Ansible | Cloud Native | SRE | Linux</p>
 
                         <div className="social-links">
 
